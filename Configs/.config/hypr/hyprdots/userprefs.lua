@@ -1,0 +1,5 @@
+-- Personal overrides. Loaded last, so anything here wins.
+--
+-- Examples:
+-- hl.config({ decoration = { rounding = 6 } })
+-- hd.bind("MOD + B", "Browser", "zen-browser")
